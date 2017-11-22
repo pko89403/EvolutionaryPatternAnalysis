@@ -2,7 +2,6 @@ import sys
 
 File = open(sys.argv[1], 'r')
 
-
 print('CHROM\tPOS\tREF\tA\tC\tG\tT')
 
 n = 0
